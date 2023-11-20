@@ -9,6 +9,10 @@ public class DataSizeRange{
         System.out.println("Int Max :" + Integer.MAX_VALUE);    //**Output:2147483647  */
         System.out.println("Int Bytes :" + Integer.BYTES);      //**Output: 4 bytes */
 
+        System.out.println("Float Min :" + Float.MIN_VALUE);
+        System.out.println("Float Max :" + Float.MAX_VALUE);
+        System.out.println("Float Bytes :" + Float.BYTES);
+
 
     }
 }
