@@ -26,5 +26,15 @@ public class Variable{
 
         char c = 'A';
         System.out.println(c);  //**Output: A*/
+
+
+
+        //?  Literals
+
+        long L=999_999_999l;
+        System.out.println(L);
+
+        float f=123_124.58f;
+        System.out.println(f);
     }
 }
