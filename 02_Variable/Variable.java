@@ -19,5 +19,12 @@ public class Variable{
         
         b=127;
         System.out.println(b); /**Output: 127 */
+
+        float x = 0.35f;
+        System.out.println(x); //**Output: 0.35 */
+
+
+        char c = 'A';
+        System.out.println(c);  //**Output: A*/
     }
 }
