@@ -32,7 +32,7 @@ public class KeyRead{
 // nextInt() - for Integer
 // nextFloat() - for Float
 // nextDouble() - for Decimal Values
-// next() - to ready word 
+// next() - to read word 
 // nextLine()** - to read line or multiple words
 
 //nextByte() - for Byte values
