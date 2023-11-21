@@ -31,10 +31,10 @@ public class Variable{
 
         //?  Literals
 
-        long L=999_999_999l;
+        long L=999_999_999l;      //todo : for long values type 'l' in the end of the digits.
         System.out.println(L);
 
-        float f=123_124.58f;
+        float f=123_124.58f;      //todod : for float values type 'f' in the end of the digits.
         System.out.println(f);
     }
 }
