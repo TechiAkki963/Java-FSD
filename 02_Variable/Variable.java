@@ -38,3 +38,4 @@ public class Variable{
         System.out.println(f);
     }
 }
+
